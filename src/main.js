@@ -1,6 +1,6 @@
 import Vue from "vue";
 import App from "./App.vue";
-import { validate } from "./validate";
+import { validate } from "./directives/validate";
 
 Vue.config.productionTip = false;
 
